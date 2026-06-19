@@ -1,2 +1,2 @@
 # Grupo-3-Aragon-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+en el dia de la fecha yo y mi grupo estuvimos haciendo el trabajo 19/6 en el cual hicimos casi toda la fase 1
