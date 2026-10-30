@@ -1,2 +1,1 @@
-# Grupo-3-Aragon-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+en este día yo y mi grupo probamos de hacer funcionar nuestro circuito físicamente modificando algunas cosas y funcionó a medias(la pantalla no mostraba valores, los sensores tampoco del todo bien y un led no prendía capaz por quemado) también empezamos a pensar en el diseño de la caja donde van a ir los componentes
