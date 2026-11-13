@@ -1,2 +1,1 @@
-# Grupo-3-Aragon-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+en la semana pasada y en el dia de hoy terminamos de hacer el diseño de la caja y empezamos a armar el circuito para que funcione estando ya terminado
